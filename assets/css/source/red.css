@@ -1,0 +1,51 @@
+.main-navigation,
+.main-navigation .current-menu-item, 
+.main-navigation ul ul,
+.read-more::after, 
+.widget-social-icons li a::after,
+#sidr-left-top-button,
+.backtotop,
+#address-block,
+.bg-light-blue,
+.site-footer,
+.bg-blue,
+.bg-light-red,
+.tag a span.bg-grey::before, 
+.tag a span.bg-grey::before,
+li .wide, 
+li .boxed {
+    background-color: #F8807F;
+}
+.main-navigation li:hover,
+.main-navigation .current-menu-item {
+	background-color: #EB6E6C;
+}
+#site-header .site-title a,
+.category-desc a h2,
+.read-more:hover, 
+.widget-wrap a:hover,
+.trending-contents h3,
+.picker_close, 
+.picker_close:hover, 
+.picker_close:focus,
+.loader-container .fa,
+.entry-summary h4 a:hover,
+.recent-story-wrapper h3,
+#featured-story .featured-contents .title h3,
+#fashion .blog-desc h2,
+.sidebar .title h2,
+.widget-sidebar .title h2,
+.popular-post .desc h3:hover,
+.color-switcher .font-family li.active a, 
+.color-switcher .font-family li a:hover {
+	color: #F8807F;
+}
+#featured-story .featured-contents .title h3:hover {
+	color: #333;
+}
+#address-block ul li {
+	color: #eee;
+}
+.overlay-blue {
+	background-color:rgba(248, 128, 127, 0.77);
+}

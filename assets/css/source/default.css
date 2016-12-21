@@ -1,0 +1,56 @@
+.main-navigation,
+.main-navigation .current-menu-item, 
+.main-navigation ul ul,
+.read-more::after, 
+.widget-social-icons li a::after,
+#sidr-left-top-button,
+.backtotop,
+.main-navigation,
+.main-navigation li:hover, 
+.main-navigation .current-menu-item,
+.bg-red,
+.bg-light-blue,
+.site-footer,
+.tag a span.bg-grey::before, 
+.tag a span.bg-grey::before,
+li .wide, 
+li .boxed {
+    background-color: #27A5E0;
+}
+#top-categories .bg-red {
+    background-color: #F8807F;
+}
+.main-navigation li:hover,
+.main-navigation .current-menu-item {
+	background-color: #1690C7;
+}
+#site-header .site-title a,
+.category-desc a h2:hover,
+.read-more:hover, 
+.widget-wrap a:hover,
+.trending-contents h3:hover,
+.picker_close, 
+.picker_close:hover, 
+.picker_close:focus,
+.loader-container .fa,
+.entry-summary h4 a:hover,
+#fashion .blog-desc h2:hover,
+.blog .blogpage-title,
+.widget-sidebar .title h2,
+.popular-post .desc h3:hover,
+.recent-story-wrapper h3:hover,
+#featured-story .featured-contents .title h3:hover,
+.celebrities-wrapper .category-desc a h2:hover,
+.color-switcher .font-family li.active a, 
+.color-switcher .font-family li a:hover {
+	color: #27A5E0;
+}
+.celebrities-wrapper .category-desc a h2 {
+	color: #333;
+}
+#address-block ul li {
+	color: #eee;
+}
+.overlay-red {
+	background-color: rgba(88, 185, 230, 0.73);
+}

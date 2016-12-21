@@ -1,0 +1,19 @@
+#customize-controls .control-section-create-magazine .accordion-section-title:hover,
+#customize-controls .control-section-create-magazine .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-create-magazine .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+.rtl .control-section-create-magazine .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-create_magazine h3.accordion-section-title {
+    background-color: #27A5E0;
+}
